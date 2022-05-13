@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "Ringv2",
+    "description": "Deploy ringv2 on Heroku.",
+    "keywords": ["Vring"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -16,8 +16,8 @@
             "value": "/ring"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/xiaokanhongchen/kuv2hero",
+    "website": "https://github.com",
+    "repository": "https://github.co",
     "stack": "container"
 }
 
